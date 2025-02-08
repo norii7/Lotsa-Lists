@@ -62,7 +62,7 @@ You can add more test cases by following the format of the previous ones and rec
 ## Other Contributors:
 
 Manuel Lucas Bumanglag
-Justin Kenneth Co
+<br> Justin Kenneth Co
 
 ## Sources and References
 
