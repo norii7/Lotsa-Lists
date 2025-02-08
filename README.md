@@ -59,6 +59,11 @@ To run the test, make sure that the source codes are all in the same folder, the
 
 You can add more test cases by following the format of the previous ones and recompiling the code.
 
+## Other Contributors:
+
+Manuel Lucas Bumanglag
+Justin Kenneth Co
+
 ## Sources and References
 
 Circular Queue Implementation - Array. “Circular Queue Implementation - Array.” YouTube, 12 June 2019, www.youtube.com/watch?v=8sjFA-IX-Ww&list=WL&index=2&t=207s&ab_channel=BlueTreeCode.
